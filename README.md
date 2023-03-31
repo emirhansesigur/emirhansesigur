@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emirhan Sesigür</h1>
 <h3 align="center">A computer science student from Turkey</h3>
 
-- 🌱 I’m currently learning **everything :)**
+- 🌱 I’m currently learning **.NET, ANGULAR, MySQL**
 
 - 📫 How to reach me **emirhansesigur@gmail.com**
 
